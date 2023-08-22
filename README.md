@@ -1,0 +1,2 @@
+# TallerClinica
+Proyecto clinica escritorio
